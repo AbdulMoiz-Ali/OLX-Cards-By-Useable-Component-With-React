@@ -1,0 +1,7 @@
+.main{
+    display: flex;
+    flex-wrap: wrap;
+}
+body{
+    background-color: rgb(29 35 42);
+}
